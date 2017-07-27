@@ -1,0 +1,30 @@
+{
+  "name": "dirty-fe",
+  "version": "1.0.0",
+  "description": "dirty up the frontend",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ohmyjersh/dirty-fe.git"
+  },
+  "keywords": [
+    "dirty",
+    "stuff",
+    "words"
+  ],
+  "author": "ohmyjersjh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ohmyjersh/dirty-fe/issues"
+  },
+  "homepage": "https://github.com/ohmyjersh/dirty-fe#readme",
+  "dependencies": {
+    "xhook": "^1.4.3"
+  },
+  "devDependencies": {
+    "jest": "^20.0.4"
+  }
+}
