@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/ohmyjersh/dirty-fe#readme",
   "dependencies": {
+    "url-pattern": "^1.0.3",
     "xhook": "^1.4.3"
   },
   "devDependencies": {
